@@ -1,6 +1,6 @@
 = pharaoh projects: Learn spoc prime
 
-This repo contains my learning materials about the SpocK Framework
+This repo contains my learning materials about the Spock Framework
 
 1. link:https://spockframework.org/spock/docs/2.3/[Spock documentation]
 
