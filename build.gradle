@@ -13,6 +13,7 @@ repositories {
 dependencies {
     testImplementation 'org.spockframework:spock-core:2.3-groovy-3.0'
     testImplementation 'org.codehaus.groovy:groovy-all:3.0.19'
+    testImplementation 'com.h2database:h2:2.2.224'
 }
 
 test {

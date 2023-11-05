@@ -1,0 +1,7 @@
+= pharaoh projects: Learn spoc prime
+
+This repo contains my learning materials about the SpocK Framework
+
+1. link:https://spockframework.org/spock/docs/2.3/[Spock documentation]
+
+2. link:src/test/groovy/dev/n9mac/pharaoh/learn/spock/[Examples]
